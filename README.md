@@ -10,6 +10,13 @@
  📫 Contact:
 - LinkedIn: www.linkedin.com/in/vanessa-napoléon-829056280
 
+  ## 📌 Projects
+- 🧮 [Java Calculator with Database](https://github.com/VanessaMits/java-calculator-db)
+- ⚙️ [ALU Design – Vivado](https://github.com/VanessaMits/ALU-VHDL)
+- 👾 [Pacman Game](https://github.com/VanessaMits/pacman-python)
+- 🌍 [Travel Agency Website](https://github.com/VanessaMits/travel-agency-website)
+
+
 
 <!--
 **VanessaMits/VanessaMits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
