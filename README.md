@@ -15,6 +15,9 @@
 - ⚙️ [ALU Design – Vivado](https://github.com/VanessaMits/ALU-VHDL)
 - 👾 [Pacman Game](https://github.com/VanessaMits/pacman-python)
 - 🌍 [Travel Agency Website](https://github.com/VanessaMits/travel-agency-website)
+- 🗄️ [Event Management Database](https://github.com/VanessaMits/Event-management-database)
+
+  
 
 
 
