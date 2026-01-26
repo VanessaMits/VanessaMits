@@ -16,6 +16,8 @@
 - 👾 [Pacman Game](https://github.com/VanessaMits/pacman-python)
 - 🌍 [Travel Agency Website](https://github.com/VanessaMits/travel-agency-website)
 - 🗄️ [Event Management Database](https://github.com/VanessaMits/Event-management-database)
+- 🤖 [Reinforcement Learning Project (Python)](https://github.com/VanessaMits/Reinforcement-learning-project.git)
+
 
   
 
